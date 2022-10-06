@@ -1,0 +1,49 @@
+#include <iostream>
+
+3
+
+4 float circle (int r);//function
+
+using namespace std;
+
+prototype
+
+5
+
+6
+
+int main(){
+
+int radius:
+
+7
+
+float area;
+
+8
+
+cout<<" enter radius"<<endl; 9 cin>>radius;
+
+10
+
+area circle (radius);// function
+
+calling
+
+11 cout<<" the area is"<<area<<endl;
+
+12 return 0;}
+
+13 float circle (int r){ function
+
+definition
+
+14 float area;
+
+15 area=3.142*r*r;
+
+16 return area;
+
+
+
+}
